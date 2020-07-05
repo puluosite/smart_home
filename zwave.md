@@ -1,4 +1,5 @@
 * my devices
+
 ** GE 45605 Z-Wave Duplex Receptacle
     + factory reset: click button 3 times, then hold buttom until led light blink
 ** GE Enbrighten Z-Wave Plus Smart Light Dimmer 14294
